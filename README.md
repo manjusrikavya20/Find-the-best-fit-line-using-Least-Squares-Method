@@ -23,13 +23,6 @@ Developed by: MANJUSRI KAVYA R
 RegisterNumber: 212224040186
 ```
 ```
-/*
-Program to implement univariate Linear Regression to fit a straight line using least squares.
-Developed by: NITHYASREE S
-RegisterNumber:  212224040225
-*/
-
-
 import numpy as np
 import matplotlib.pyplot as plt
 X=np.array(eval(input()))
